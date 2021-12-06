@@ -1,2 +1,2 @@
 # Docs_ArduinoProject
-Dokumentasi dari kode arduino uno yang telah di digunakan
+Dokumentasi dari kode arduino uno yang telah digunakan
